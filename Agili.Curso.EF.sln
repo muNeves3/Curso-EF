@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agili.Curso.EF", "Agili.Curso.EF\Agili.Curso.EF.csproj", "{189C3566-3188-446A-AC89-4AB74978C7E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agili.Curso.EF.Tests", "Agili.Curso.EF.Tests\Agili.Curso.EF.Tests.csproj", "{333FF36B-DA12-4F31-9336-0000D65E1F73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{189C3566-3188-446A-AC89-4AB74978C7E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{189C3566-3188-446A-AC89-4AB74978C7E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{189C3566-3188-446A-AC89-4AB74978C7E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{189C3566-3188-446A-AC89-4AB74978C7E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{333FF36B-DA12-4F31-9336-0000D65E1F73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{333FF36B-DA12-4F31-9336-0000D65E1F73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{333FF36B-DA12-4F31-9336-0000D65E1F73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{333FF36B-DA12-4F31-9336-0000D65E1F73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF45A77E-B591-4A1E-B474-C4E8FB84BB06}
+	EndGlobalSection
+EndGlobal
